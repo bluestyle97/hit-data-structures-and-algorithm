@@ -1,0 +1,5 @@
+*.swp
+*.sln
+*.vcxproj
+*.filters
+Debug/*

@@ -1,0 +1,103 @@
+//@Filename:	TestExample.txt
+//@Description:	Input graph for test
+//@Author:		Xu Jiale
+//@Create Time:	2016/12/22, 22:06
+//Copyright (C) 2016 HIT. All rights reserved
+
+Vertexnum:	12
+Edgenum:	17
+Datas:		ABCDEFGHIJKL
+
+Directed weighted graph input:
+0 1 2
+0 7 3
+1 2 5
+1 8 4
+2 6 3
+3 6 2
+4 3 3
+4 8 2
+5 4 2
+6 5 5
+7 2 1
+7 5 1
+8 10 3
+9 7 2
+9 10 4
+10 11 3
+11 5 1
+
+Directed unweighted graph input:
+0 1
+0 7
+1 2
+1 8
+2 6
+3 6
+4 3
+4 8
+5 4
+6 5
+7 2
+7 5
+8 10
+9 7
+9 10
+10 11
+11 5
+
+Undirected weighted graph input:
+0 1 2
+0 7 3
+1 2 5
+1 8 4
+2 6 3
+2 7 1
+3 4 3
+3 6 2
+4 5 2
+4 8 2
+5 6 5
+5 7 1
+5 11 1
+7 9 2
+8 10 3
+9 10 4
+10 11 3
+
+Undirected unweighted graph input:
+0 1
+0 7
+1 2
+1 8
+2 6
+2 7
+3 4
+3 6
+4 5
+4 8
+5 6
+5 7
+5 11
+7 9
+8 10
+9 10
+10 11
+
+A B 2
+A H 3
+B C 5
+B I 4
+C G 3
+C H 1
+D E 3
+D G 2
+E F 2
+E I 2
+F G 5
+F H 1
+F L 1
+H J 2
+I K 3
+J K 4
+K L 3
